@@ -5,6 +5,7 @@
   },
   "rules": {
     "@typescript-eslint/strict-boolean-expressions": 0,
-    "@typescript-eslint/space-before-function-paren": 0
+    "@typescript-eslint/space-before-function-paren": 0,
+    "comma-dangle": 0
   }
 }
